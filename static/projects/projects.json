@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "name": "2048 py game",
+      "link": "2048 py game",
+      "date": "June 2021",
+      "short": "Developed using python Tkinter. It's a basically python flash game.",
+      "status": "complete",
+      "weight": 7,
+      "tags": [
+        "python",
+        "Tkinter"
+      ],
+      "photos": [
+        "/static/experiences/2048 py game/2048_logo.jpg"
+      ],
+      "github":"https://github.com/Kunjesh07/2048-py-game"
+    },
+    {
+      "name": "Mortality Prediction Using Artificial Neural Network",
+      "link": "Mortality Prediction Using Artificial Neural Network",
+      "date": "May 2021",
+      "short": "The risk of death can be approximated by evaluating the severity of a patient’s illness as determined by important physiologic, clinical, and demographic determinants.",
+      "weight": 9,
+      "tags": [
+        "ANN",
+        "Prediction Algorithm"
+      ],
+      "photos": [
+        "/static/experiences/Mortality Prediction Using Artificial Neural Network/Capture.jpg"
+      ],
+      "github": "https://github.com/Kunjesh07/Mortality_Prediction_Using_ANN"
+    },
+    {
+      "name": "Sentiment Analysis Using Artificial Neural Network",
+      "link": "Sentiment Analysis Using Artificial Neural Network",
+      "date": "May 2021",
+      "short": "t is the Neural Network model that gives us the sentiment of movies based on viewers rating.",
+      "status": "completed",
+      "weight": 8,
+      "tags": [
+        "ANN",
+        "Sentiment Analysis",
+        "ML Algorithm"
+      ],
+      "photos": [
+        ""
+      ],
+      "github": "https://github.com/Kunjesh07/Sentiment-Analysis-using-Neural-Network"
+    },
+    {
+      "name": "WhatsApp Bot",
+      "link": "Krabby Bot",
+      "date": "Nov 2020 - ongoing",
+      "short": "WhatsApp bot that can do many things like, searching your query on google and give you a links as more as it can. it can download your FaceBook and YouTube videos. It can shows weather of any city. It can translate any language to any language.",
+      "status": "ongoing",
+      "weight": 8,
+      "tags": [
+        "python",
+        "Flask",
+        "Twilio",
+        "Heroku"
+      ],
+      "photos": [
+        ""
+      ],
+      "github": "https://github.com/Kunjesh07/KrabbyBot"
+    },
+    {
+      "name": "Certificate Generator",
+      "link": "Certificate Generator",
+      "date": "Mar 2021",
+      "short": "It can create certificate in bulk and can send mail to particular person.",
+      "status": "complete",
+      "weight": 9,
+      "tags": [
+        "Python",
+        "Pandas",
+        "Automation"
+      ],
+      
+      "photos": [
+        ""
+      ],
+      "github": "https://github.com/Kunjesh07/Certificate-Generator"
+    }
+    
+  ]
+}
